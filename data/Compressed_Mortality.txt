@@ -1,0 +1,61 @@
+	"County"	"County Code"	Deaths	Population	Crude Rate	% of Total Deaths
+	"Baca County, CO"	"08009"	62	4517	1372.6	0.2%
+	"Phillips County, CO"	"08095"	58	4480	1294.6	0.2%
+	"Las Animas County, CO"	"08071"	181	15207	1190.2	0.7%
+	"Otero County, CO"	"08089"	235	20311	1157.0	0.9%
+	"Costilla County, CO"	"08023"	42	3663	1146.6	0.2%
+	"Delta County, CO"	"08029"	317	27834	1138.9	1.2%
+	"Sedgwick County, CO"	"08115"	31	2747	1128.5	0.1%
+	"Conejos County, CO"	"08021"	90	8400	1071.4	0.3%
+	"Bent County, CO"	"08011"	64	5998	1067.0	0.2%
+	"Kiowa County, CO"	"08061"	17	1622	1048.1 (Unreliable)	0.1%
+	"Dolores County, CO"	"08033"	19	1844	1030.4 (Unreliable)	0.1%
+	"Huerfano County, CO"	"08055"	81	7862	1030.3	0.3%
+	"Kit Carson County, CO"	"08063"	81	8011	1011.1	0.3%
+	"Yuma County, CO"	"08125"	99	9841	1006.0	0.4%
+	"Fremont County, CO"	"08043"	462	46145	1001.2	1.7%
+	"Pueblo County, CO"	"08101"	1387	141472	980.4	5.1%
+	"Mesa County, CO"	"08077"	1136	116255	977.2	4.2%
+	"Washington County, CO"	"08121"	48	4926	974.4	0.2%
+	"Montezuma County, CO"	"08083"	231	23830	969.4	0.8%
+	"Morgan County, CO"	"08087"	257	27171	945.9	0.9%
+	"Logan County, CO"	"08075"	189	20504	921.8	0.7%
+	"Chaffee County, CO"	"08015"	146	16242	898.9	0.5%
+	"Rio Grande County, CO"	"08105"	111	12413	894.2	0.4%
+	"Jackson County, CO"	"08057"	14	1577	887.8 (Unreliable)	0.1%
+	"Prowers County, CO"	"08099"	127	14483	876.9	0.5%
+	"Montrose County, CO"	"08085"	285	33432	852.5	1.0%
+	"Lincoln County, CO"	"08073"	51	6087	837.9	0.2%
+	"Denver County, CO"	"08031"	4567	554636	823.4	16.7%
+	"Rio Blanco County, CO"	"08103"	49	5986	818.6	0.2%
+	"Moffat County, CO"	"08081"	106	13184	804.0	0.4%
+	"Saguache County, CO"	"08109"	47	5917	794.3	0.2%
+	"Alamosa County, CO"	"08003"	104	14966	694.9	0.4%
+	"Crowley County, CO"	"08025"	34	5518	616.2	0.1%
+	"Weld County, CO"	"08123"	1112	180936	614.6	4.1%
+	"Garfield County, CO"	"08045"	265	43791	605.1	1.0%
+	"Larimer County, CO"	"08069"	1498	251494	595.6	5.5%
+	"Jefferson County, CO"	"08059"	3127	527056	593.3	11.5%
+	"El Paso County, CO"	"08041"	2925	516929	565.8	10.7%
+	"Archuleta County, CO"	"08007"	56	9898	565.8	0.2%
+	"Adams County, CO"	"08001"	2048	363857	562.9	7.5%
+	"Grand County, CO"	"08049"	69	12442	554.6	0.3%
+	"Arapahoe County, CO"	"08005"	2693	487967	551.9	9.9%
+	"La Plata County, CO"	"08067"	242	43941	550.7	0.9%
+	"Cheyenne County, CO"	"08017"	12	2231	537.9 (Unreliable)	0.0%
+	"Lake County, CO"	"08065"	40	7812	512.0	0.1%
+	"Boulder County, CO"	"08013"	1420	291288	487.5	5.2%
+	"Ouray County, CO"	"08091"	17	3742	454.3 (Unreliable)	0.1%
+	"Custer County, CO"	"08027"	15	3503	428.2 (Unreliable)	0.1%
+	"Teller County, CO"	"08119"	85	20555	413.5	0.3%
+	"Park County, CO"	"08093"	60	14523	413.1	0.2%
+	"Elbert County, CO"	"08039"	82	19872	412.6	0.3%
+	"Gunnison County, CO"	"08051"	54	13956	386.9	0.2%
+	"Clear Creek County, CO"	"08019"	36	9322	386.2	0.1%
+	"Gilpin County, CO"	"08047"	17	4757	357.4 (Unreliable)	0.1%
+	"Routt County, CO"	"08107"	66	19690	335.2	0.2%
+	"San Miguel County, CO"	"08113"	17	6594	257.8 (Unreliable)	0.1%
+	"Pitkin County, CO"	"08097"	38	14872	255.5	0.1%
+	"Douglas County, CO"	"08035"	448	175766	254.9	1.6%
+	"Summit County, CO"	"08117"	38	23548	161.4	0.1%
+	"Eagle County, CO"	"08037"	67	41659	160.8	0.2%
